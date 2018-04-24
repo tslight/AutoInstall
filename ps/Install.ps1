@@ -8,7 +8,7 @@ $pkgs = @(
     @{title='Egnyte Connect';args=' /qn /quiet'},
     @{title='Egnyte Office';args=' /qn /quiet'},
     @{title='Egnyte WebEdit';args=' /qn /quiet'},
-    @{title='FortiClient';args=' /quiet /norestart /INSTALLLEVEL=3'},
+    @{title='FortiClient';args=' /quiet /norestart INSTALLLEVEL=3'},
     @{title='Google Chrome';args=' /silent /install'},
     @{title='MimeCast';args=' /quiet /norestart'},
     @{title='VLC';args=' /L=1033 /S'}
